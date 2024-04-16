@@ -1,5 +1,5 @@
 ## Lambda  ##
-This is the lambda code which scrape the campaign promises & their status and push them to DDB.
+This is the lambda code which scrape the campaign promises & their status and push them to DDB. This is for the CBS AI Hackathon. 
 
 
 ## Upload a new version to Lambda
